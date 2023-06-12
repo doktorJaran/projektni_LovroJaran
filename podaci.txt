@@ -1,0 +1,28 @@
+Broj raèuna: 232
+Prezime i ime: laj opalo
+Saldo: 12
+Broj raèuna: 21
+Prezime i ime: c efw
+Saldo: 213
+Broj raèuna: 21
+Prezime i ime: vfd dd
+Saldo: 423
+Pretraga po prezimenu i imenu:
+Uneseno prezime i ime: vfd dd
+Broj raèuna: 21
+Saldo: 423
+Broj raèuna: 12
+Prezime i ime: gf
+Saldo: 23
+Broj raèuna: 234
+Prezime i ime: df
+Saldo: 2322
+Broj raèuna: 5564
+Prezime i ime: jhkhz
+Saldo: 454545
+Broj raèuna: 12
+Prezime i ime: lovro
+Saldo: 12
+Broj raèuna: 13
+Prezime i ime: jaran
+Saldo: 13
